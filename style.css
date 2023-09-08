@@ -1,0 +1,36 @@
+.containermain{
+    display: flex;
+    margin: 19rem;
+    flex-direction: column;
+    width: 25rem;
+    
+    
+    
+    
+}
+.button1{
+  
+border-radius: 20px;
+border-width: 0px;
+height: 70px;
+background-color: rgb(164, 164, 164); 
+margin-bottom: 60px;
+
+}
+.button2{
+border-radius: 20px;
+border-width: 0px;
+height: 70px;
+background-color: rgb(164, 164, 164);
+margin-bottom: 60px;
+
+}
+
+.button3{
+
+border-radius: 20px;
+border-width: 0px;
+height: 70px;
+background-color: rgb(164, 164, 164);
+margin-bottom: 60px;
+}
