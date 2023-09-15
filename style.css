@@ -41,6 +41,10 @@ margin-bottom: 60px;
     font-size: small;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
-   
+
+}
+img:hover{
+    background-color: rgb(11, 119, 214);
+
 }
 
