@@ -1,8 +1,12 @@
 .containermain{
     display: flex;
-    margin: 19rem;
-    flex-direction: column;
-    width: 25rem; 
+    flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-top: 30vh;
+
+    
 
 }
 
